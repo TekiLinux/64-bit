@@ -12,7 +12,7 @@ the preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests).
 
 **Important Reminders: (For Maintainers)**
-- After creating an issue don't forget to Add Github Power-ups on your issue our
+- After creating an issue don't forget to Add Github Power-ups on our
 [Trello Board](https://trello.com/b/xqUrR6Ys/tekilinux-tekilinux-amd64).
 - To add a GitHub Power-up, click your issue on Issues List and from there look for the GitHub Power-up.
 
@@ -81,7 +81,13 @@ included in the project:
 - Pull request title should follow this format: **Issue_#: Title**
 - Commits for pull request should follow this format: **Issue_#: Commit Message**
 
-Git Flow on creating a pull request:
+Git Flow concept could be visualised here after forking the repository: 
+[*Forking Workflow*](https://guides.github.com/introduction/flow/)
+
+Advantage and description of this Git Flow can be read here:
+[*Comparing Workflows: Forking Workflow*](https://www.atlassian.com/git/tutorials/comparing-workflows#forking-workflow)
+
+Git Flow on creating a pull request (Step by Step):
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone your fork, and configure the remotes:
    ```bash
    # Clone your fork of the repo into the current directory
