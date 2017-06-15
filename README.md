@@ -1,2 +1,2 @@
-# 64-bit Source
-Teki Linux 64-bit
+# Teki Linux 64-bit
+Source for 64-bit architecture.
