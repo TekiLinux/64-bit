@@ -1,29 +1,20 @@
-<!--- Provide a general summary of your changes in the Title above -->
+# Pull Request
+
+**Github Issue Number Link:** [*Github Issue Link*](#)
+
+**GitHub Branch Link:** [*GitHub Branch Link*](#)
 
 ## Description
-<!--- Describe your changes in detail -->
+- *provide a general summary of your changes*
 
-## Related Issue
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+## Changes
+- *provide explanation to changes made in the pull request*
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
+## Relevant Issues
+- *provide other issues relevant to the ticket if there's any*
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
-
-## Screenshots (if appropriate):
-
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+## Place to start
+- *provide a place where the reviewer can start reviewing your code*
 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
