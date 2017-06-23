@@ -1,2 +1,2 @@
 # TekiLinux
-Source for the **64-bit** build of TekiLinux.
+ISO build scripts for TekiLinux
